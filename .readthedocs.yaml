@@ -17,4 +17,4 @@ conda:
 sphinx:
   fail_on_warning: true
 
-formats: all
+formats: [htmlzip]
